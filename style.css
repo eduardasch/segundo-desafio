@@ -1,0 +1,8 @@
+body{
+    background-image: url(casa.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100vh;
+    background-size: 100vw;
+    text-align: center;
+    margin-top: 25%;
+}
